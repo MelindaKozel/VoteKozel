@@ -1,0 +1,18 @@
+[20-Apr-2017 17:22:04 UTC] wizard_viewed
+[20-Apr-2017 17:22:54 UTC] PHP Warning:  require_once(/home2/melindm1/public_html/votekozel/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php): failed to open stream: No such file or directory in /home2/melindm1/public_html/votekozel/wp-content/plugins/jetpack/sync/class.jetpack-sync-actions.php on line 277
+[20-Apr-2017 17:22:54 UTC] PHP Fatal error:  require_once(): Failed opening required '/home2/melindm1/public_html/votekozel/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/melindm1/public_html/votekozel/wp-content/plugins/jetpack/sync/class.jetpack-sync-actions.php on line 277
+[20-Apr-2017 17:29:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/melindm1/public_html/votekozel/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[20-Apr-2017 17:29:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/melindm1/public_html/votekozel/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[20-Apr-2017 17:29:46 UTC] wizard_hidden
+[20-Apr-2017 17:29:46 UTC] wizard_disabled
+[20-Apr-2017 17:47:57 UTC] mojo_plugin_deactivated
+[16-Sep-2017 21:08:00 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home2/melindm1/public_html/votekozel/wp-content/plugins/ajax-login-reg/ajax-login-reg.php on line 152
+[16-Sep-2017 21:09:01 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home2/melindm1/public_html/votekozel/wp-content/plugins/ajax-login-reg/ajax-login-reg.php on line 152
+[16-Sep-2017 21:11:02 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home2/melindm1/public_html/votekozel/wp-content/plugins/ajax-login-reg/ajax-login-reg.php on line 152
+[16-Sep-2017 21:13:03 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home2/melindm1/public_html/votekozel/wp-content/plugins/ajax-login-reg/ajax-login-reg.php on line 152
+[16-Sep-2017 21:15:04 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home2/melindm1/public_html/votekozel/wp-content/plugins/ajax-login-reg/ajax-login-reg.php on line 152
+[16-Sep-2017 21:17:05 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home2/melindm1/public_html/votekozel/wp-content/plugins/ajax-login-reg/ajax-login-reg.php on line 152
+[16-Sep-2017 21:18:28 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home2/melindm1/public_html/votekozel/wp-content/plugins/ajax-login-reg/ajax-login-reg.php on line 152
+[16-Sep-2017 21:18:36 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home2/melindm1/public_html/votekozel/wp-content/plugins/ajax-login-reg/ajax-login-reg.php on line 152
+[16-Sep-2017 21:18:54 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home2/melindm1/public_html/votekozel/wp-content/plugins/ajax-login-reg/ajax-login-reg.php on line 152
+[16-Sep-2017 21:18:58 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home2/melindm1/public_html/votekozel/wp-content/plugins/ajax-login-reg/ajax-login-reg.php on line 152

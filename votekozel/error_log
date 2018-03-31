@@ -1,0 +1,30 @@
+1492708616: /home2/melindm1/public_html/votekozel/ssv3_payload_extractor-Fx9c0CdgJA.php startup
+[06-Jun-2017 14:49:38 UTC] PHP Parse error:  syntax error, unexpected 'get_header' (T_STRING) in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/404.php on line 1
+[06-Jun-2017 14:50:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/404.php on line 4
+[06-Jun-2017 14:51:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/404.php on line 5
+[06-Jun-2017 14:51:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/404.php on line 5
+[15-Oct-2017 21:27:14 UTC] PHP Parse error:  syntax error, unexpected '";?><?php the_title(''); ?></a' (T_CONSTANT_ENCAPSED_STRING) in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/front-page.php on line 137
+[15-Oct-2017 21:29:23 UTC] PHP Parse error:  syntax error, unexpected '";?><?php the_title(); ?></a><' (T_CONSTANT_ENCAPSED_STRING) in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/front-page.php on line 137
+[15-Oct-2017 21:30:17 UTC] PHP Parse error:  syntax error, unexpected '"' in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/front-page.php on line 109
+[16-Oct-2017 01:29:34 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (11202017) at position 7 (7): Unexpected character in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/front-page.php:110
+Stack trace:
+#0 /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/front-page.php(110): DateTime->__construct('11202017')
+#1 /home2/melindm1/public_html/votekozel/wp-includes/template-loader.php(74): include('/home2/melindm1...')
+#2 /home2/melindm1/public_html/votekozel/wp-blog-header.php(19): require_once('/home2/melindm1...')
+#3 /home2/melindm1/public_html/votekozel/index.php(17): require('/home2/melindm1...')
+#4 {main}
+  thrown in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/front-page.php on line 110
+[16-Oct-2017 01:31:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/front-page.php:111
+Stack trace:
+#0 /home2/melindm1/public_html/votekozel/wp-includes/template-loader.php(74): include()
+#1 /home2/melindm1/public_html/votekozel/wp-blog-header.php(19): require_once('/home2/melindm1...')
+#2 /home2/melindm1/public_html/votekozel/index.php(17): require('/home2/melindm1...')
+#3 {main}
+  thrown in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/front-page.php on line 111
+[16-Oct-2017 01:31:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/front-page.php:111
+Stack trace:
+#0 /home2/melindm1/public_html/votekozel/wp-includes/template-loader.php(74): include()
+#1 /home2/melindm1/public_html/votekozel/wp-blog-header.php(19): require_once('/home2/melindm1...')
+#2 /home2/melindm1/public_html/votekozel/index.php(17): require('/home2/melindm1...')
+#3 {main}
+  thrown in /home2/melindm1/public_html/votekozel/wp-content/themes/Campaign/front-page.php on line 111
